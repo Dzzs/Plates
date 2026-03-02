@@ -75,10 +75,3 @@ For target mode, the app runs a bounded knapsack dynamic programming algorithm:
 2. Build reachable per-side totals from available plate pairs.
 3. Select the best total based on policy (`allowOver`, `preferFewerPlates`).
 4. Reconstruct the selected plate combination per side.
-
-## Building In Public
-
-I’m sharing this openly to document my progress and keep shipping useful AI-assisted projects.
-
-- Feedback and ideas: open an issue.
-- If this helps your training workflow, a star helps this project reach more lifters.
