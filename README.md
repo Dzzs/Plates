@@ -1,7 +1,3 @@
-<p align="center">
-  <img src=".github/assets/platecalc-logo.svg" alt="PlateCalc logo" width="92" />
-</p>
-
 <h1 align="center">PlateCalc</h1>
 <p align="center">
   Fast, visual barbell loading calculator with custom inventory, dual units, and plate styling.
@@ -9,9 +5,6 @@
 <p align="center">
   Built in public as part of my AI-assisted app building journey.
 </p>
-
-> [!NOTE]
-> This project is free to use. All calculator data is stored locally in your browser with no backend required.
 
 ## Why This Project
 
@@ -29,6 +22,9 @@ This repo is also part of my GitHub portfolio to show consistent shipping with A
 - Plate appearance editor (colors, texture, labels) for visual realism.
 - Mobile-first responsive UI with animated feedback.
 - Local persistence with Zustand so your setup survives refreshes.
+
+<img width="1127" height="1146" alt="image" src="https://github.com/user-attachments/assets/a80d38c4-9926-48e0-9033-fbd3f9b4be35" />
+<img width="1126" height="1140" alt="image" src="https://github.com/user-attachments/assets/cf66b1d9-ff1a-4a7c-8675-477fc02113ac" />
 
 ## Tech Stack
 
